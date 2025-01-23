@@ -1,0 +1,25 @@
+{
+  "name": "playwright_experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hello.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^22.10.10"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajithcoder/Playwright_Experiments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajithcoder/Playwright_Experiments/issues"
+  },
+  "homepage": "https://github.com/ajithcoder/Playwright_Experiments#readme"
+}
